@@ -23,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Son2k5/Leetcode/tree/master/0118-pascals-triangle) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Son2k5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Son2k5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Son2k5/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
