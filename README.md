@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Son2k5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Son2k5/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Son2k5/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/Son2k5/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Son2k5/Leetcode/tree/master/0125-valid-palindrome) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Son2k5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
