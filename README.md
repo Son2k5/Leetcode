@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Son2k5/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Son2k5/Leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Son2k5/Leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Son2k5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Son2k5/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Son2k5/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Son2k5/Leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Son2k5/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Son2k5/Leetcode/tree/master/0125-valid-palindrome) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Son2k5/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Son2k5/Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Son2k5/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
